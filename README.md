@@ -102,5 +102,11 @@ To get the whole process started, I've gathered some module names here, based on
 |  | [org.springframework:spring-webflux](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework%22%20AND%20a%3A%22spring-web%22) | **spring.webflux** | 5.0.2 |
 |  | [org.springframework:spring-webmvc](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework%22%20AND%20a%3A%22spring-webmvc%22) | **spring.webmvc** | 5.0.2 |
 |  | [org.springframework:spring-websocket](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework%22%20AND%20a%3A%22spring-websocket%22) | **spring.websocket** | 5.0.2 |
-
+| | | |
+| [RabbitMQ](http://www.rabbitmq.com/) | [com.rabbitmq:amqp-client](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.rabbitmq%22%20AND%20a%3A%22amqp-client%22) | **com.rabbitmq.client** | 5.1.0 |
+|  | [com.rabbitmq.jms:rabbitmq-jms](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.rabbitmq.jms%22%20AND%20a%3A%22rabbitmq-jms%22) | **com.rabbitmq.jms** | 1.8.1 |
+|  | [com.rabbitmq:perf-test](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.rabbitmq%22%20AND%20a%3A%22perf-test%22) | **com.rabbitmq.perf** | 1.4.2 |
+|  | [com.rabbitmq:http-client](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.rabbitmq%22%20AND%20a%3A%22http-client%22) | **com.rabbitmq.http.client** | 2.0.1.RELEASE |
+|  | [com.rabbitmq:tracer](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.rabbitmq%22%20AND%20a%3A%22tracer%22) | **com.rabbitmq.tracer** | 1.1.0 |
+|  | [io.projectreactor.rabbitmq:reactor-rabbitmq](https://repo.spring.io/webapp/#/search/quick/eyJzZWFyY2giOiJxdWljayIsInF1ZXJ5IjoicmVhY3Rvci1yYWJiaXRtcSIsInNlbGVjdGVkUmVwb3NpdG9yaWVzIjpbImxpYnMtbWlsZXN0b25lLWxvY2FsIl19) | **reactor.rabbitmq** | 1.0.0.M1 |
 
